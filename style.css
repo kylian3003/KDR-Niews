@@ -1,6 +1,7 @@
 h1, h2, h3, p, li, a, td {font-family: futura-pt, sans-serif;}
 
 body {
+    width: 1920px;
     margin: 0;
     padding: 0;
     border: 0;
