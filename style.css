@@ -269,6 +269,18 @@ td>ul>li {
 
 form {margin: 0 40px;}
 
+form>button {
+    font-family: futura-pt, sans-serif;
+    color: white;
+    font-size: 20px;
+    background-color: #2c4c91;
+    border: white;
+    border-radius: 12px;
+    padding: 4px 10px;
+}
+
+form>button:hover {cursor: pointer}
+
 input, textarea, option {
     font-family: futura-pt, sans-serif;
     font-size: 15px;
